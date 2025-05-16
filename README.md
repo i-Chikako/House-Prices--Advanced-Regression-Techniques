@@ -30,6 +30,7 @@
 
 ## 📁 ファイル構成
 - `notebooks/HousePrices-sec.ipynb`: 最終モデルのNotebook
+- notebooks/HousePrices-first.ipynb`: 開発中の試行錯誤ノートブック
 
 ## 📝 補足
 このコンペティションを通して、回帰問題の扱い方や評価指標（RMSE）、モデルのスタッキング技術について実践的に学ぶことができました。  
