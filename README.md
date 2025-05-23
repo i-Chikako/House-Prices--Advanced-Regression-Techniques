@@ -29,7 +29,7 @@
 - 複数モデルによるスタッキング
 
 ## 📁 ファイル構成
-- `notebooks/HousePrices-sec.ipynb`: 最終モデルのNotebook
+- `notebooks/HousePrices-sec.ipynb`: 最終モデルのNotebook（最終モデル”meta_model”）
 - `notebooks/HousePrices-first.ipynb`: 開発中の試行錯誤ノートブック
 
 ## 📝 補足
