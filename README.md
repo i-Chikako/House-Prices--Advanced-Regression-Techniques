@@ -4,7 +4,7 @@
 [https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
 
 ## 🏆 結果
-- 最終順位：4,671チーム中 652位（リーダーボード、2025年5月16日時点）
+- 最終順位：4,667チーム中 687位　上位15％（リーダーボード、2025年5月24日時点）
 - 使用モデル：スタッキング（ベースモデル：LightGBM + XGBoost + CatBoost + GradientBoostingRegressor メタモデル：Ridge）
 - 評価指標：Root Mean Squared Logarithmic Error（RMSLE）
 - 最終スコア：0.12509
